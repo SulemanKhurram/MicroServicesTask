@@ -15,3 +15,6 @@ Gui service runs on the port 5000
 Xml parser service runs on port 5051  
 Csv converter service runs on port 5002  
 
+![alt text](https://raw.githubusercontent.com/SulemanKhurram/MicroServicesTask/master-1/interface_01.png)
+![alt text](https://raw.githubusercontent.com/SulemanKhurram/MicroServicesTask/master-1/interface_02.png)
+
