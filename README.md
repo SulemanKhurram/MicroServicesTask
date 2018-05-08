@@ -5,8 +5,8 @@ This Gui component will take XML file(s) as input and will pass them on to xml-p
 
 Requirements:
 
-RabbitMq 
-AspNet Core 
-Docker (if you want to use docker, docker file is provided) 
+RabbitMq  
+AspNet Core  
+Docker (if you want to use docker, docker file is provided)  
 
 Following are some screenshots to display the working of these services. 
