@@ -1,0 +1,10 @@
+/home/suleman/C#work/gui/GuiXML/bin/Debug/netcoreapp2.0/GuiXML.deps.json
+/home/suleman/C#work/gui/GuiXML/bin/Debug/netcoreapp2.0/GuiXML.runtimeconfig.json
+/home/suleman/C#work/gui/GuiXML/bin/Debug/netcoreapp2.0/GuiXML.runtimeconfig.dev.json
+/home/suleman/C#work/gui/GuiXML/bin/Debug/netcoreapp2.0/GuiXML.dll
+/home/suleman/C#work/gui/GuiXML/bin/Debug/netcoreapp2.0/GuiXML.pdb
+/home/suleman/C#work/gui/GuiXML/obj/Debug/netcoreapp2.0/GuiXML.csproj.CoreCompileInputs.cache
+/home/suleman/C#work/gui/GuiXML/obj/Debug/netcoreapp2.0/GuiXML.AssemblyInfoInputs.cache
+/home/suleman/C#work/gui/GuiXML/obj/Debug/netcoreapp2.0/GuiXML.AssemblyInfo.cs
+/home/suleman/C#work/gui/GuiXML/obj/Debug/netcoreapp2.0/GuiXML.dll
+/home/suleman/C#work/gui/GuiXML/obj/Debug/netcoreapp2.0/GuiXML.pdb

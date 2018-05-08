@@ -1,0 +1,47 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Upload XML Files";
+}
+<h2>@ViewData["Title"]</h2>
+
+<form method="post" enctype="multipart/form-data" >
+    <div class="form-group">
+        <div class="col-md-10">
+            <p>Upload one or more files using this form:</p>
+            <input type="file"  asp-for="uploadedFiles" multiple />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value="Upload" />
+        </div>
+    </div>
+
+</form>
+
+    <table id="myTable" class="table" cellspacing="0" style = "width:100%;">
+        <thead>
+            <tr>
+                <th>GUID</th>
+                <th>File Name</th>
+                <th>Status</th>
+                <th>Csv Data</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+                @foreach (var item in Model.filesInformation)
+                {<tr>
+                    <td>@Html.DisplayFor(modelItem => item.ID)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FileName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Status)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CsvConverted)</td>
+                    </tr>
+                }
+        </tbody>
+
+    </table>
+
+
+
