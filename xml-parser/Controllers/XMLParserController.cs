@@ -57,12 +57,12 @@ namespace xml_parser.Controllers
                 using(var connection = factory.CreateConnection())
                 using(var channel = connection.CreateModel())
                 {
-                    channel.QueuePurge("xmltocsv");
                     channel.QueueDeclare(queue: "xmltocsv",
                                         durable: false,
                                         exclusive: false,
                                         autoDelete: false,
                                         arguments: null);
+                    channel.QueuePurge("xmltocsv");
 
                     var body = Encoding.UTF8.GetBytes(result);
 
