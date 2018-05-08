@@ -1,0 +1,10 @@
+/home/suleman/C#work/xml-parser/xml-parser/bin/Release/netcoreapp2.0/xml-parser.deps.json
+/home/suleman/C#work/xml-parser/xml-parser/bin/Release/netcoreapp2.0/xml-parser.runtimeconfig.json
+/home/suleman/C#work/xml-parser/xml-parser/bin/Release/netcoreapp2.0/xml-parser.runtimeconfig.dev.json
+/home/suleman/C#work/xml-parser/xml-parser/bin/Release/netcoreapp2.0/xml-parser.dll
+/home/suleman/C#work/xml-parser/xml-parser/bin/Release/netcoreapp2.0/xml-parser.pdb
+/home/suleman/C#work/xml-parser/xml-parser/obj/Release/netcoreapp2.0/xml-parser.csproj.CoreCompileInputs.cache
+/home/suleman/C#work/xml-parser/xml-parser/obj/Release/netcoreapp2.0/xml-parser.AssemblyInfoInputs.cache
+/home/suleman/C#work/xml-parser/xml-parser/obj/Release/netcoreapp2.0/xml-parser.AssemblyInfo.cs
+/home/suleman/C#work/xml-parser/xml-parser/obj/Release/netcoreapp2.0/xml-parser.dll
+/home/suleman/C#work/xml-parser/xml-parser/obj/Release/netcoreapp2.0/xml-parser.pdb
