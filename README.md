@@ -8,6 +8,12 @@ Requirements:
  -> RabbitMq  
  -> AspNet Core  
  -> Docker (if you want to use docker, docker file is provided)  
+ 
+ Also do, run RabbitMQ using
+ 
+ docker run rabbimq  
+ 
+ to start messaging.
 
 Following are some screenshots to display the working of these services. 
 
